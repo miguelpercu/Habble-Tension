@@ -1,0 +1,15 @@
+Parámetro,Valor,Unidades,Tipo,Descripción
+kappa_crit,1e-78,adimensional,Fundamental UAT,Límite de coherencia causal
+C_UAT,0.001081,adimensional,Fundamental UAT,Constante cosmológica UAT
+C_S_UAT,6.402271780915666e-59,J/(K s),Derivada,Constante termodinámica UAT
+C_CPU,1.6884631533798977e+55,s/J,Derivada,Constante unificada UAT
+k_early,1.084318,adimensional,Derivada,Factor corrección universo temprano
+H0_UAT,73.03966048,km/s/Mpc,Predicción,Constante Hubble predicción UAT
+H0_CMB,67.36,km/s/Mpc,Observación,Constante Hubble medición CMB
+H0_SH0ES,73.04,km/s/Mpc,Observación,Constante Hubble medición SH0ES
+dSdt_standard,6.402271780915666e+19,J/(K s),Cálculo,Tasa entropía estándar Planck
+dSdt_causal,6.402271780915666e+19,J/(K s),Cálculo,Tasa entropía protección causal
+dSdt_net,0.0,J/(K s),Cálculo,Tasa entropía neta
+S_planck,3.4516224999999995e-24,J/K,Fundamental,Entropía escala Planck
+t_planck,5.391246448313604e-44,s,Fundamental,Tiempo Planck
+L_planck,1.6162550244237053e-35,m,Fundamental,Longitud Planck

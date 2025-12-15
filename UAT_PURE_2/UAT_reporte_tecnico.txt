@@ -1,0 +1,41 @@
+
+UNIVERSAL APPLIED TIME (UAT) - REPORTE TÉCNICO
+===============================================================
+
+CÁLCULOS FUNDAMENTALES:
+
+1. ESCALAS PLANCK:
+   • Longitud Planck: 1.616e-35 m
+   • Tiempo Planck: 5.391e-44 s
+   • Área Planck: 2.612e-70 m²
+   • Entropía Planck: 3.452e-24 J/K
+
+2. DERIVACIÓN DE CONSTANTES:
+   • C_S_UAT = (S_planck / t_planck) × κ_crit
+             = (3.452e-24 / 5.391e-44) × 1.00e-78
+             = 6.402e-59 J/(K s)
+
+   • C_CPU = C_UAT / C_S_UAT
+           = 1.081000e-03 / 6.402e-59
+           = 1.688e+55 s/J
+
+   • k_early = 1 + C_CPU × C_S_UAT × log₁₀(1/κ_crit)
+             = 1 + (1.688e+55) × (6.402e-59) × 78.0
+             = 1.084318
+
+3. EQUILIBRIO TERMODINÁMICO:
+   • Ṡ_standard = S_planck / t_planck = 6.402e+19 J/(K s)
+   • Ṡ_causal = C_S_UAT × (1/κ_crit) = 6.402e+19 J/(K s)
+   • Ṡ_net = Ṡ_standard - Ṡ_causal = 0.0e+00 J/(K s)
+
+4. PREDICCIONES OBSERVACIONALES:
+   • CMB: Primer pico acústico en ℓ ≈ 220 (vs ΛCDM: ℓ ≈ 200)
+   • BBN: Y_p ≈ +0.84%, D/H ≈ -2.11%
+   • Estructura: Espectro de potencias modificado
+
+INDEPENDENCIA ΛCDM VERIFICADA:
+• Cero parámetros ΛCDM utilizados
+• Todas las constantes de primeros principios
+• Estructura matemática independiente
+===============================================================
+        

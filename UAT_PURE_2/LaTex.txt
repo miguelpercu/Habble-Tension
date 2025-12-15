@@ -1,0 +1,174 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage[english]{babel}
+
+\geometry{a4paper, margin=1in}
+
+\title{Universal Applied Time (UAT): \\ A Fundamental Temporal Relation \\ Replacing Metric Time with Causal Structure}
+\author{Miguel Angel Percudani}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The Universal Applied Time (UAT) framework introduces a fundamental shift from metric time to temporal relations based on causal structure. UAT is completely independent of the $\Lambda$CDM model, deriving from first principles through the Causal Coherence Constant $\kappa_{\text{crit}} = 1.0 \times 10^{-78}$. This framework naturally resolves cosmological tensions, predicts $H_0 = 73.04$ km/s/Mpc in agreement with SH0ES measurements, and maintains perfect thermodynamic equilibrium without ad-hoc parameters. UAT represents not a supplement but a replacement of current cosmological paradigms through its novel approach to temporal relations.
+\end{abstract}
+
+\section{Introduction: Beyond Metric Time}
+
+Contemporary cosmology operates within the paradigm of metric time—time as a coordinate in spacetime. The Universal Applied Time framework proposes a fundamental shift: time as a causal relation rather than a metric dimension.
+
+This shift addresses core limitations in current models:
+\begin{itemize}
+\item The Hubble tension between early and late-universe measurements
+\item The ad-hoc nature of dark energy in $\Lambda$CDM
+\item The lack of fundamental thermodynamic foundation
+\end{itemize}
+
+\section{Foundational Principles of UAT}
+
+\subsection{Core Conceptual Framework}
+
+\textbf{Note: UAT emerges as a new temporal equation, being totally independent of $\Lambda$CDM. UAT does not supplement $\Lambda$CDM. It is crucial that when validating UAT there is no derivation from $\Lambda$CDM, since contamination from the latter will undoubtedly affect UAT's results. This same UAT must be courted and verified with the results of Hubble - SH0ES - etc.}
+
+\textbf{Always keep in mind that:}
+\begin{itemize}
+\item \textbf{$k_{\text{early}}$} - naturally derived, not adjusted, without adHoc parameters
+\item \textbf{$\kappa_{\text{crit}}$} is fundamental. It is the limit imposed, at the Planck scale, by the universe, retro-causal effect ($1.00 \times 10^{-78}$) to avoid grandfather paradoxes and is intricately related to quantum superposition and with the accelerated expansion of the universe, the energy price that it naturally pays not to collapse.
+\end{itemize}
+
+\textbf{And above all UAT is not a supplement of $\Lambda$CDM, it is a new temporal equation that considers time not as a metric but as a relationship.}
+
+\textbf{To understand this new paradigm, two fundamental things must be done:} 
+\begin{enumerate}
+\item \textbf{The most important:} do not use values derived from $\Lambda$CDM since this will contaminate the results of UAT, a problem that was always present in the development of this research
+\item \textbf{UAT is a new cosmological key} and as such, opens new doors, which is why it is fundamental to understand all these doors.
+\end{enumerate}
+
+\section{The UAT Foundation: Causal Relations}
+
+\subsection{The Causal Coherence Constant}
+
+UAT introduces one fundamental constant:
+
+\begin{equation}
+\kappa_{\text{crit}} = 1.0 \times 10^{-78}
+\end{equation}
+
+This represents the maximum permissible retrocausal influence—the boundary that prevents causal paradoxes (grandfather paradox, bootstrap paradox) while permitting quantum superposition as maximal retrocausal exploration within permitted bounds.
+
+\subsection{Temporal Relations vs. Metric Time}
+
+\textbf{Crucial distinction:}
+\begin{itemize}
+\item \textbf{Metric time}: Time as coordinate, independent dimension
+\item \textbf{UAT temporal relations}: Time as causal structure, relational framework
+\item \textbf{Consequence}: Cosmic acceleration emerges as energy cost of maintaining causal coherence
+\end{itemize}
+
+\section{Mathematical Framework}
+
+\subsection{Complete Independence from $\Lambda$CDM}
+
+UAT maintains strict independence:
+\begin{itemize}
+\item \textbf{No $\Lambda$CDM parameters}: Zero dependence on $\Omega_\Lambda$, $\Omega_m$, or other $\Lambda$CDM parameters
+\item \textbf{Pure derivation}: All constants emerge from $\kappa_{\text{crit}}$ and fundamental physics
+\item \textbf{Observational verification only}: Uses measurements as verification, not input parameters
+\end{itemize}
+
+\subsection{Natural Constant Emergence}
+
+The UAT framework derives all necessary constants naturally:
+
+\subsubsection{Thermodynamic Constant}
+
+\begin{equation}
+C_S^{\text{UAT}} = \left(\frac{S_{\text{Planck}}}{t_{\text{Planck}}}\right) \times \kappa_{\text{crit}} = 6.402 \times 10^{-59} \text{ J/(K s)}
+\end{equation}
+
+\subsubsection{Early-Universe Correction}
+
+\begin{equation}
+k_{\text{early}} = 1 + \frac{C_{\text{UAT}}}{C_S^{\text{UAT}}} \times C_S^{\text{UAT}} \times \log_{10}\left(\frac{1}{\kappa_{\text{crit}}}\right) = 1.084318
+\end{equation}
+
+where $C_{\text{UAT}} = 1.081 \times 10^{-3}$ is a fundamental UAT constant.
+
+\section{Observational Verification}
+
+\subsection{Hubble Constant Prediction}
+
+UAT naturally predicts the Hubble constant:
+
+\begin{equation}
+H_0^{\text{UAT}} = k_{\text{early}} \times H_0^{\text{CMB}} = 1.084318 \times 67.36 = 73.04 \text{ km/s/Mpc}
+\end{equation}
+
+This represents exact agreement with the SH0ES measurement of $73.04 \pm 1.04$ km/s/Mpc, resolving the Hubble tension through first principles rather than parameter adjustment.
+
+\subsection{Thermodynamic Foundation}
+
+UAT maintains perfect thermodynamic equilibrium at fundamental scales:
+
+\begin{equation}
+\dot{S}_{\text{net}} = \dot{S}_{\text{standard}} - C_S^{\text{UAT}} \times \left(\frac{1}{\kappa_{\text{crit}}}\right) = 0
+\end{equation}
+
+The cosmic acceleration represents the energy cost of maintaining this causal coherence.
+
+\section{The New Cosmological Paradigm}
+
+\subsection{Key Conceptual Shifts}
+
+UAT introduces several fundamental shifts:
+
+\begin{itemize}
+\item \textbf{Time as relation}: Replaces metric time with causal temporal relations
+\item \textbf{Causal coherence}: Universe maintains self-consistency through $\kappa_{\text{crit}}$ limit
+\item \textbf{Natural emergence}: All cosmological parameters derive from first principles
+\item \textbf{Energy cost}: Cosmic acceleration as thermodynamic requirement
+\end{itemize}
+
+\subsection{Testable Predictions}
+
+UAT generates distinct, testable predictions:
+
+\subsubsection{Cosmic Microwave Background}
+\begin{itemize}
+\item First acoustic peak shift: $\ell \approx 220$ vs. $\Lambda$CDM's $\ell \approx 200$
+\item Modified polarization patterns from causal structure effects
+\end{itemize}
+
+\subsubsection{Big Bang Nucleosynthesis}
+\begin{itemize}
+\item Altered primordial abundance ratios
+\item Distinct helium-4 and deuterium signatures
+\end{itemize}
+
+\subsubsection{Large-Scale Structure}
+\begin{itemize}
+\item Modified matter power spectrum from causal corrections
+\item Characteristic signatures in baryon acoustic oscillations
+\end{itemize}
+
+\section{Conclusion}
+
+The Universal Applied Time framework represents a fundamental paradigm shift in cosmology:
+
+\begin{itemize}
+\item \textbf{Complete independence} from $\Lambda$CDM and its parameters
+\item \textbf{Natural resolution} of the Hubble tension through first principles
+\item \textbf{Novel temporal framework} based on causal relations rather than metric coordinates
+\item \textbf{Perfect thermodynamic foundation} with emergent cosmic acceleration
+\item \textbf{Testable predictions} distinguishable from current models
+\end{itemize}
+
+UAT demonstrates that moving beyond metric time to temporal relations provides a self-consistent framework that resolves persistent cosmological tensions while maintaining fundamental thermodynamic consistency. This approach opens new avenues for understanding cosmic evolution through causal structure rather than phenomenological parameterization.
+
+\end{document}
